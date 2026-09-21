@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">coap_iot</string>
+    <string name="server_title">Servidor CoAP</string>
+    <string name="host_hint">Ej.: 192.168.1.10</string>
+    <string name="default_host">192.168.1.10</string>
+    <string name="btn_discover">Descubrir recursos</string>
+    <string name="sensors_title">Sensores</string>
+    <string name="btn_cpu">Leer CPU</string>
+    <string name="btn_memory">Leer memoria</string>
+    <string name="btn_disk">Leer disco</string>
+    <string name="btn_temp">Leer temperatura simulada</string>
+    <string name="btn_observe">Iniciar Observe de CPU</string>
+    <string name="btn_stop_observe">Detener Observe de CPU</string>
+    <string name="observe_stopped">Observe CPU: detenido</string>
+    <string name="observe_starting">Observe CPU: iniciando...</string>
+    <string name="observe_update">Observe CPU:\n%1$s</string>
+    <string name="actuators_title">Actuadores</string>
+    <string name="message_hint">Escribe un mensaje</string>
+    <string name="default_message">¡Hola desde Raspberry con Android!</string>
+    <string name="btn_send_message">Mostrar mensaje en pantalla del PC</string>
+    <string name="btn_write_log">Enviar mensaje al log</string>
+    <string name="output_title">Salida</string>
+    <string name="waiting_actions">Esperando acciones...</string>
+</resources>
